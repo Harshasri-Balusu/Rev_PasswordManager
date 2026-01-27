@@ -1,0 +1,336 @@
+2026-01-23 00:14:57 INFO  org.example.Main - Starting RevPassword Manager Application
+2026-01-23 00:15:00 INFO  org.example.config.DBConnection - Databse connection established successfully
+2026-01-23 00:15:00 INFO  org.example.controller.MainController - Welcome to RevPassword Manager
+2026-01-23 00:15:00 INFO  org.example.controller.MainController - 1. Register
+2026-01-23 00:15:00 INFO  org.example.controller.MainController - 2. Login
+2026-01-23 00:15:00 INFO  org.example.controller.MainController - 3. Exit
+2026-01-23 00:15:00 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 00:15:05 INFO  org.example.controller.MainController - Enter username:
+2026-01-23 00:15:07 INFO  org.example.controller.MainController - Enter full name:
+2026-01-23 00:15:11 INFO  org.example.controller.MainController - Enter email:
+2026-01-23 00:15:19 INFO  org.example.controller.MainController - Enter master password:
+2026-01-23 00:15:23 INFO  org.example.controller.MainController - Registration successful.
+2026-01-23 00:15:23 INFO  org.example.controller.MainController - 1. Register
+2026-01-23 00:15:23 INFO  org.example.controller.MainController - 2. Login
+2026-01-23 00:15:23 INFO  org.example.controller.MainController - 3. Exit
+2026-01-23 00:15:23 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 00:15:25 INFO  org.example.controller.MainController - Enter username:
+2026-01-23 00:15:26 INFO  org.example.controller.MainController - Enter master password:
+2026-01-23 00:15:35 INFO  org.example.controller.MainController - Login successful. Welcome, mahalakshmi
+2026-01-23 00:15:35 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-23 00:15:35 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-23 00:15:35 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-23 00:15:35 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-23 00:15:35 INFO  org.example.controller.MainController - 5. View Password
+2026-01-23 00:15:35 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-23 00:15:35 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-23 00:15:35 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-23 00:15:35 INFO  org.example.controller.MainController - 9. Logout
+2026-01-23 00:15:35 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 00:15:45 INFO  org.example.controller.MainController - Enter account name:
+2026-01-23 00:15:53 INFO  org.example.controller.MainController - Enter account username:
+2026-01-23 00:15:57 INFO  org.example.controller.MainController - Enter password:
+2026-01-23 00:16:03 INFO  org.example.controller.MainController - Enter notes (optional):
+2026-01-23 00:16:08 INFO  org.example.controller.MainController - Password saved successfully.
+2026-01-23 00:16:08 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-23 00:16:08 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-23 00:16:08 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-23 00:16:08 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-23 00:16:08 INFO  org.example.controller.MainController - 5. View Password
+2026-01-23 00:16:08 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-23 00:16:08 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-23 00:16:08 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-23 00:16:08 INFO  org.example.controller.MainController - 9. Logout
+2026-01-23 00:16:08 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 00:16:20 INFO  org.example.controller.MainController - Saved Passwords:
+2026-01-23 00:16:20 INFO  org.example.controller.MainController - ID: 1 | Account: instagram | Username: mahalakshmi
+2026-01-23 00:16:20 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-23 00:16:20 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-23 00:16:20 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-23 00:16:20 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-23 00:16:20 INFO  org.example.controller.MainController - 5. View Password
+2026-01-23 00:16:20 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-23 00:16:20 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-23 00:16:20 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-23 00:16:20 INFO  org.example.controller.MainController - 9. Logout
+2026-01-23 00:16:20 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 00:16:33 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-23 00:16:36 INFO  org.example.controller.MainController - Account: instagram
+2026-01-23 00:16:36 INFO  org.example.controller.MainController - Username: mahalakshmi
+2026-01-23 00:16:36 INFO  org.example.controller.MainController - Encrypted Password: 3UXNG0rQAgVm3RSAnTJBclO1j6FhQ7J9tFK5OFBAL8w=
+2026-01-23 00:16:36 INFO  org.example.controller.MainController - Notes: social
+2026-01-23 00:16:36 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-23 00:16:36 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-23 00:16:36 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-23 00:16:36 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-23 00:16:36 INFO  org.example.controller.MainController - 5. View Password
+2026-01-23 00:16:36 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-23 00:16:36 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-23 00:16:36 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-23 00:16:36 INFO  org.example.controller.MainController - 9. Logout
+2026-01-23 00:16:36 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 00:17:24 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-23 00:17:28 INFO  org.example.controller.MainController - Enter new account name:
+2026-01-23 00:17:38 INFO  org.example.controller.MainController - Enter new account username:
+2026-01-23 00:17:42 INFO  org.example.controller.MainController - Enter new password (leave blank to keep old):
+2026-01-23 00:17:49 INFO  org.example.controller.MainController - Enter new notes:
+2026-01-23 00:17:52 INFO  org.example.controller.MainController - Password updated successfully.
+2026-01-23 00:17:52 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-23 00:17:52 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-23 00:17:52 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-23 00:17:52 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-23 00:17:52 INFO  org.example.controller.MainController - 5. View Password
+2026-01-23 00:17:52 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-23 00:17:52 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-23 00:17:52 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-23 00:17:52 INFO  org.example.controller.MainController - 9. Logout
+2026-01-23 00:17:52 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 00:18:02 INFO  org.example.controller.MainController - Enter account name keyword:
+2026-01-23 00:18:06 INFO  org.example.controller.MainController - ID: 1 | Account: instagram | Username: mahalakshmi
+2026-01-23 00:18:06 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-23 00:18:06 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-23 00:18:06 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-23 00:18:06 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-23 00:18:06 INFO  org.example.controller.MainController - 5. View Password
+2026-01-23 00:18:06 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-23 00:18:06 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-23 00:18:06 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-23 00:18:06 INFO  org.example.controller.MainController - 9. Logout
+2026-01-23 00:18:06 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 00:22:29 INFO  org.example.Main - Starting RevPassword Manager Application
+2026-01-23 00:22:31 INFO  org.example.config.DBConnection - Databse connection established successfully
+2026-01-23 00:22:31 INFO  org.example.controller.MainController - Welcome to RevPassword Manager
+2026-01-23 00:22:31 INFO  org.example.controller.MainController - 1. Register
+2026-01-23 00:22:31 INFO  org.example.controller.MainController - 2. Login
+2026-01-23 00:22:31 INFO  org.example.controller.MainController - 3. Exit
+2026-01-23 00:22:31 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 00:22:37 INFO  org.example.controller.MainController - Enter username:
+2026-01-23 00:22:39 INFO  org.example.controller.MainController - Enter master password:
+2026-01-23 00:22:42 INFO  org.example.controller.MainController - Login successful. Welcome, mahalakshmi
+2026-01-23 00:22:42 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-23 00:22:42 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-23 00:22:42 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-23 00:22:42 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-23 00:22:42 INFO  org.example.controller.MainController - 5. View Password
+2026-01-23 00:22:42 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-23 00:22:42 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-23 00:22:42 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-23 00:22:42 INFO  org.example.controller.MainController - 9. Logout
+2026-01-23 00:22:42 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 00:22:48 INFO  org.example.controller.MainController - Saved Passwords:
+2026-01-23 00:22:48 INFO  org.example.controller.MainController - ID: 1 | Account: instagram | Username: mahalakshmi
+2026-01-23 00:22:48 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-23 00:22:48 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-23 00:22:48 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-23 00:22:48 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-23 00:22:48 INFO  org.example.controller.MainController - 5. View Password
+2026-01-23 00:22:48 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-23 00:22:48 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-23 00:22:48 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-23 00:22:48 INFO  org.example.controller.MainController - 9. Logout
+2026-01-23 00:22:48 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 00:23:02 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-23 00:23:04 INFO  org.example.controller.MainController - Re-enter master password:
+2026-01-23 00:23:10 INFO  org.example.controller.MainController - Account: instagram
+2026-01-23 00:23:10 INFO  org.example.controller.MainController - Username: mahalakshmi
+2026-01-23 00:23:10 INFO  org.example.controller.MainController - Encrypted Password: 5Mu5X8Ymyd25ecfTMJZYpMyqeqSlQNaLH5MyPpQkP1c=
+2026-01-23 00:23:10 INFO  org.example.controller.MainController - Notes: 
+2026-01-23 00:23:10 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-23 00:23:10 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-23 00:23:10 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-23 00:23:10 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-23 00:23:10 INFO  org.example.controller.MainController - 5. View Password
+2026-01-23 00:23:10 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-23 00:23:10 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-23 00:23:10 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-23 00:23:10 INFO  org.example.controller.MainController - 9. Logout
+2026-01-23 00:23:10 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 00:23:15 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-23 00:23:16 INFO  org.example.controller.MainController - Re-enter master password:
+2026-01-23 00:23:18 WARN  org.example.controller.MainController - Master password incorrect. Access denied.
+2026-01-23 00:23:18 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-23 00:23:18 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-23 00:23:18 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-23 00:23:18 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-23 00:23:18 INFO  org.example.controller.MainController - 5. View Password
+2026-01-23 00:23:18 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-23 00:23:18 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-23 00:23:18 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-23 00:23:18 INFO  org.example.controller.MainController - 9. Logout
+2026-01-23 00:23:18 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 00:23:26 INFO  org.example.controller.MainController - Enter password ID to delete:
+2026-01-23 00:23:28 INFO  org.example.controller.MainController - Password deleted successfully.
+2026-01-23 00:23:28 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-23 00:23:28 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-23 00:23:28 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-23 00:23:28 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-23 00:23:28 INFO  org.example.controller.MainController - 5. View Password
+2026-01-23 00:23:28 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-23 00:23:28 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-23 00:23:28 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-23 00:23:28 INFO  org.example.controller.MainController - 9. Logout
+2026-01-23 00:23:28 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 00:23:34 INFO  org.example.controller.MainController - No password entries found.
+2026-01-23 00:23:34 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-23 00:23:34 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-23 00:23:34 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-23 00:23:34 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-23 00:23:34 INFO  org.example.controller.MainController - 5. View Password
+2026-01-23 00:23:34 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-23 00:23:34 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-23 00:23:34 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-23 00:23:34 INFO  org.example.controller.MainController - 9. Logout
+2026-01-23 00:23:34 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 00:23:39 INFO  org.example.controller.MainController - Logged out successfully.
+2026-01-23 00:23:39 INFO  org.example.controller.MainController - 1. Register
+2026-01-23 00:23:39 INFO  org.example.controller.MainController - 2. Login
+2026-01-23 00:23:39 INFO  org.example.controller.MainController - 3. Exit
+2026-01-23 00:23:39 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 00:23:41 INFO  org.example.controller.MainController - Exiting application.
+2026-01-23 00:23:41 INFO  org.example.Main - Application terminated
+2026-01-23 01:30:27 INFO  org.example.Main - Starting RevPassword Manager Application
+2026-01-23 01:30:29 INFO  org.example.config.DBConnection - Databse connection established successfully
+2026-01-23 01:30:29 INFO  org.example.controller.MainController - Welcome to RevPassword Manager
+2026-01-23 01:30:29 INFO  org.example.controller.MainController - 1. Register
+2026-01-23 01:30:29 INFO  org.example.controller.MainController - 2. Login
+2026-01-23 01:30:29 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-23 01:30:29 INFO  org.example.controller.MainController - 4. Exit
+2026-01-23 01:30:29 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 01:30:34 INFO  org.example.controller.MainController - Enter username:
+2026-01-23 01:30:41 INFO  org.example.controller.MainController - Enter full name:
+2026-01-23 01:30:45 INFO  org.example.controller.MainController - Enter email:
+2026-01-23 01:30:51 INFO  org.example.controller.MainController - Enter master password:
+2026-01-23 01:30:58 INFO  org.example.controller.MainController - Registration successful.
+2026-01-23 01:30:58 INFO  org.example.controller.MainController - 1. Register
+2026-01-23 01:30:58 INFO  org.example.controller.MainController - 2. Login
+2026-01-23 01:30:58 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-23 01:30:58 INFO  org.example.controller.MainController - 4. Exit
+2026-01-23 01:30:58 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 01:31:04 INFO  org.example.controller.MainController - Enter username:
+2026-01-23 01:31:07 WARN  org.example.controller.MainController - No security questions available.
+2026-01-23 01:31:07 INFO  org.example.controller.MainController - 1. Register
+2026-01-23 01:31:07 INFO  org.example.controller.MainController - 2. Login
+2026-01-23 01:31:07 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-23 01:31:07 INFO  org.example.controller.MainController - 4. Exit
+2026-01-23 01:31:07 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 01:39:03 INFO  org.example.controller.MainController - Exiting application.
+2026-01-23 01:39:03 INFO  org.example.Main - Application terminated
+2026-01-23 11:51:18 INFO  org.example.Main - Starting RevPassword Manager Application
+2026-01-23 11:51:21 INFO  org.example.config.DBConnection - Databse connection established successfully
+2026-01-23 11:51:21 INFO  org.example.controller.MainController - Welcome to RevPassword Manager
+2026-01-23 11:51:21 INFO  org.example.controller.MainController - 1. Register
+2026-01-23 11:51:21 INFO  org.example.controller.MainController - 2. Login
+2026-01-23 11:51:21 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-23 11:51:21 INFO  org.example.controller.MainController - 4. Exit
+2026-01-23 11:51:21 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 11:51:30 INFO  org.example.controller.MainController - Enter username:
+2026-01-23 11:51:34 INFO  org.example.controller.MainController - Enter full name:
+2026-01-23 11:51:38 INFO  org.example.controller.MainController - Enter email:
+2026-01-23 11:51:44 INFO  org.example.controller.MainController - Enter master password:
+2026-01-23 11:51:49 INFO  org.example.controller.MainController - Registration successful.
+2026-01-23 11:51:49 INFO  org.example.controller.MainController - Please set security questions for account recovery.
+2026-01-23 11:51:49 INFO  org.example.controller.MainController - Answer the following security questions:
+2026-01-23 11:51:49 INFO  org.example.controller.MainController - 1: What is your pet name?
+2026-01-23 11:52:00 INFO  org.example.controller.MainController - 2: What is your birth city?
+2026-01-23 11:52:09 INFO  org.example.controller.MainController - 3: What is your favorite color?
+2026-01-23 11:52:12 INFO  org.example.service.SecurityQuestionsService - Security answers saved for user_id=8
+2026-01-23 11:52:12 INFO  org.example.controller.MainController - Security questions saved successfully.
+2026-01-23 11:52:12 INFO  org.example.controller.MainController - 1. Register
+2026-01-23 11:52:12 INFO  org.example.controller.MainController - 2. Login
+2026-01-23 11:52:12 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-23 11:52:12 INFO  org.example.controller.MainController - 4. Exit
+2026-01-23 11:52:12 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 11:52:16 INFO  org.example.controller.MainController - Enter username:
+2026-01-23 11:52:19 INFO  org.example.controller.MainController - Answer the following security questions:
+2026-01-23 11:52:19 INFO  org.example.controller.MainController - 1: What is your pet name?
+2026-01-23 11:52:24 INFO  org.example.controller.MainController - 2: What is your birth city?
+2026-01-23 11:52:26 INFO  org.example.controller.MainController - 3: What is your favorite color?
+2026-01-23 11:52:28 INFO  org.example.controller.MainController - Enter new master password:
+2026-01-23 11:52:31 WARN  org.example.controller.MainController - Security answers are incorrect.
+2026-01-23 11:52:31 INFO  org.example.controller.MainController - 1. Register
+2026-01-23 11:52:31 INFO  org.example.controller.MainController - 2. Login
+2026-01-23 11:52:31 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-23 11:52:31 INFO  org.example.controller.MainController - 4. Exit
+2026-01-23 11:52:31 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 11:54:34 INFO  org.example.controller.MainController - Enter username:
+2026-01-23 11:54:37 INFO  org.example.controller.MainController - Enter master password:
+2026-01-23 11:54:39 WARN  org.example.controller.MainController - Invalid username or password.
+2026-01-23 11:54:39 INFO  org.example.controller.MainController - 1. Register
+2026-01-23 11:54:39 INFO  org.example.controller.MainController - 2. Login
+2026-01-23 11:54:39 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-23 11:54:39 INFO  org.example.controller.MainController - 4. Exit
+2026-01-23 11:54:39 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 11:54:54 INFO  org.example.controller.MainController - Enter username:
+2026-01-23 11:54:56 INFO  org.example.controller.MainController - Enter master password:
+2026-01-23 11:54:59 INFO  org.example.controller.MainController - Login successful. Welcome, divya k
+2026-01-23 11:54:59 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-23 11:54:59 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-23 11:54:59 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-23 11:54:59 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-23 11:54:59 INFO  org.example.controller.MainController - 5. View Password
+2026-01-23 11:54:59 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-23 11:54:59 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-23 11:54:59 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-23 11:54:59 INFO  org.example.controller.MainController - 9. Logout
+2026-01-23 11:54:59 INFO  org.example.controller.MainController - 10. Set Security Questions
+2026-01-23 11:54:59 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 11:55:05 INFO  org.example.controller.MainController - Answer the following security questions:
+2026-01-23 11:55:05 INFO  org.example.controller.MainController - 1: What is your pet name?
+2026-01-23 11:55:44 INFO  org.example.controller.MainController - 2: What is your birth city?
+2026-01-23 11:55:47 INFO  org.example.controller.MainController - 3: What is your favorite color?
+2026-01-23 11:55:49 INFO  org.example.service.SecurityQuestionsService - Security answers saved for user_id=8
+2026-01-23 11:55:49 INFO  org.example.controller.MainController - Security questions saved successfully.
+2026-01-23 11:55:49 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-23 11:55:49 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-23 11:55:49 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-23 11:55:49 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-23 11:55:49 INFO  org.example.controller.MainController - 5. View Password
+2026-01-23 11:55:49 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-23 11:55:49 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-23 11:55:49 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-23 11:55:49 INFO  org.example.controller.MainController - 9. Logout
+2026-01-23 11:55:49 INFO  org.example.controller.MainController - 10. Set Security Questions
+2026-01-23 11:55:49 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 14:52:42 INFO  org.example.Main - Starting RevPassword Manager Application
+2026-01-23 14:52:44 INFO  org.example.config.DBConnection - Databse connection established successfully
+2026-01-23 14:52:44 INFO  org.example.controller.MainController - Welcome to RevPassword Manager
+2026-01-23 14:52:44 INFO  org.example.controller.MainController - 1. Register
+2026-01-23 14:52:44 INFO  org.example.controller.MainController - 2. Login
+2026-01-23 14:52:44 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-23 14:52:44 INFO  org.example.controller.MainController - 4. Exit
+2026-01-23 14:52:44 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 14:53:05 INFO  org.example.controller.MainController - Enter username:
+2026-01-23 14:53:08 INFO  org.example.controller.MainController - Enter full name:
+2026-01-23 14:53:11 INFO  org.example.controller.MainController - Enter email:
+2026-01-23 14:53:17 INFO  org.example.controller.MainController - Enter master password:
+2026-01-23 14:53:21 WARN  org.example.controller.MainController - Username already exists.
+2026-01-23 14:53:21 INFO  org.example.controller.MainController - 1. Register
+2026-01-23 14:53:21 INFO  org.example.controller.MainController - 2. Login
+2026-01-23 14:53:21 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-23 14:53:21 INFO  org.example.controller.MainController - 4. Exit
+2026-01-23 14:53:21 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 14:53:27 INFO  org.example.controller.MainController - Enter username:
+2026-01-23 14:53:28 INFO  org.example.controller.MainController - Enter master password:
+2026-01-23 14:54:56 WARN  org.example.controller.MainController - Username and password are required.
+2026-01-23 14:54:56 INFO  org.example.controller.MainController - 1. Register
+2026-01-23 14:54:56 INFO  org.example.controller.MainController - 2. Login
+2026-01-23 14:54:56 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-23 14:54:56 INFO  org.example.controller.MainController - 4. Exit
+2026-01-23 14:54:56 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 14:54:58 INFO  org.example.controller.MainController - Enter username:
+2026-01-23 14:55:17 INFO  org.example.controller.MainController - Enter full name:
+2026-01-23 14:55:19 INFO  org.example.controller.MainController - Enter email:
+2026-01-23 14:55:24 INFO  org.example.controller.MainController - Enter master password:
+2026-01-23 14:55:27 INFO  org.example.controller.MainController - Registration successful.
+2026-01-23 14:55:38 ERROR org.example.dao.UserDao - Failed to save
+2026-01-23 14:55:38 INFO  org.example.controller.MainController - 1. Register
+2026-01-23 14:55:38 INFO  org.example.controller.MainController - 2. Login
+2026-01-23 14:55:38 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-23 14:55:38 INFO  org.example.controller.MainController - 4. Exit
+2026-01-23 14:55:38 INFO  org.example.controller.MainController - Enter choice:
+2026-01-23 14:55:53 WARN  org.example.controller.MainController - Please enter a valid option.
+2026-01-23 14:55:53 INFO  org.example.controller.MainController - 1. Register
+2026-01-23 14:55:53 INFO  org.example.controller.MainController - 2. Login
+2026-01-23 14:55:53 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-23 14:55:53 INFO  org.example.controller.MainController - 4. Exit
+2026-01-23 14:55:53 INFO  org.example.controller.MainController - Enter choice:

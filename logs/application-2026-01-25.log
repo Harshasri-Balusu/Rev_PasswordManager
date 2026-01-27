@@ -1,0 +1,1253 @@
+2026-01-25 00:00:00 WARN  org.example.dao.AccountStatusDao - Account LOCKED
+2026-01-25 00:00:00 WARN  org.example.controller.MainController - Account locked due to multiple failed login attempts.
+2026-01-25 00:00:00 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 00:00:00 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 00:00:00 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 00:00:00 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 00:00:00 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 00:26:11 INFO  org.example.Main - Starting RevPassword Manager Application
+2026-01-25 00:26:13 INFO  org.example.config.DBConnection - Databse connection established successfully
+2026-01-25 00:26:13 INFO  org.example.controller.MainController - Welcome to RevPassword Manager
+2026-01-25 00:26:13 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 00:26:13 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 00:26:13 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 00:26:13 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 00:26:13 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 00:26:16 INFO  org.example.controller.MainController - Enter username:
+2026-01-25 00:26:32 INFO  org.example.controller.MainController - Enter master password:
+2026-01-25 00:26:35 WARN  org.example.controller.MainController - Account is locked. Please contact support.
+2026-01-25 00:26:35 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 00:26:35 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 00:26:35 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 00:26:35 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 00:26:35 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 00:26:40 INFO  org.example.controller.MainController - Enter username:
+2026-01-25 00:26:42 INFO  org.example.controller.MainController - Security Question:
+2026-01-25 00:26:42 INFO  org.example.controller.MainController - What is your favorite color?
+2026-01-25 00:26:42 INFO  org.example.controller.MainController - Enter your answer:
+2026-01-25 00:26:47 INFO  org.example.controller.MainController - Generating verification code...
+2026-01-25 00:26:48 INFO  org.example.controller.MainController - OTP: 105187
+2026-01-25 00:26:48 INFO  org.example.controller.MainController - Enter verification code:
+2026-01-25 00:26:54 INFO  org.example.controller.MainController - Enter new master password:
+2026-01-25 00:27:01 INFO  org.example.controller.MainController - Password reset successful. Please login.
+2026-01-25 00:27:01 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 00:27:01 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 00:27:01 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 00:27:01 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 00:27:01 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 00:27:06 INFO  org.example.controller.MainController - Enter username:
+2026-01-25 00:27:10 INFO  org.example.controller.MainController - Enter master password:
+2026-01-25 00:27:14 INFO  org.example.controller.MainController - Login successful. Welcome, sneha
+2026-01-25 00:27:14 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 00:27:14 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 00:27:14 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 00:27:14 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 00:27:14 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 00:27:14 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 00:27:14 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 00:27:14 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 00:27:14 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 00:27:14 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 00:27:14 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 00:27:14 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 00:27:14 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 00:27:14 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 00:27:38 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-25 00:27:38 WARN  org.example.controller.MainController - Invalid password ID.
+2026-01-25 00:27:38 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 00:27:38 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 00:27:38 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 00:27:38 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 00:27:38 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 00:27:38 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 00:27:38 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 00:27:38 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 00:27:38 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 00:27:38 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 00:27:38 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 00:27:38 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 00:27:38 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 00:27:38 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 00:27:42 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-25 00:27:45 INFO  org.example.controller.MainController - Re-enter master password:
+2026-01-25 00:51:36 INFO  org.example.Main - Starting RevPassword Manager Application
+2026-01-25 00:51:37 INFO  org.example.config.DBConnection - Databse connection established successfully
+2026-01-25 00:51:37 INFO  org.example.controller.MainController - Welcome to RevPassword Manager
+2026-01-25 00:51:37 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 00:51:37 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 00:51:37 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 00:51:37 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 00:51:37 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 00:51:40 INFO  org.example.controller.MainController - Enter username:
+2026-01-25 00:51:50 INFO  org.example.controller.MainController - Enter master password:
+2026-01-25 00:51:53 INFO  org.example.controller.MainController - Login successful. Welcome, sneha
+2026-01-25 00:51:53 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 00:51:53 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 00:51:53 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 00:51:53 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 00:51:53 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 00:51:53 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 00:51:53 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 00:51:53 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 00:51:53 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 00:51:53 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 00:51:53 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 00:51:53 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 00:51:53 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 00:51:53 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 00:52:01 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-25 00:52:03 INFO  org.example.controller.MainController - Re-enter master password:
+2026-01-25 13:54:50 INFO  org.example.Main - Starting RevPassword Manager Application
+2026-01-25 13:54:55 INFO  org.example.config.DBConnection - Databse connection established successfully
+2026-01-25 13:54:55 INFO  org.example.controller.MainController - Welcome to RevPassword Manager
+2026-01-25 13:54:55 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 13:54:55 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 13:54:55 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 13:54:55 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 13:54:56 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 13:54:59 INFO  org.example.controller.MainController - Enter username:
+2026-01-25 13:55:03 INFO  org.example.controller.MainController - Enter master password:
+2026-01-25 13:55:06 WARN  org.example.controller.MainController - Invalid username or password.
+2026-01-25 13:55:06 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 13:55:06 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 13:55:06 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 13:55:06 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 13:55:06 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 13:55:11 INFO  org.example.controller.MainController - Enter username:
+2026-01-25 13:55:13 INFO  org.example.controller.MainController - Enter master password:
+2026-01-25 13:55:15 INFO  org.example.controller.MainController - Login successful. Welcome, sneha
+2026-01-25 13:55:15 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 13:55:15 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 13:55:15 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 13:55:15 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 13:55:15 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 13:55:15 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 13:55:15 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 13:55:15 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 13:55:15 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 13:55:15 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 13:55:15 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 13:55:15 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 13:55:15 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 13:55:15 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 13:55:19 INFO  org.example.controller.MainController - Select Category (0 = No Category):
+2026-01-25 13:55:19 INFO  org.example.controller.MainController - 4 : bank
+2026-01-25 13:55:26 INFO  org.example.controller.MainController - Enter account name:
+2026-01-25 13:55:36 INFO  org.example.controller.MainController - Enter account username:
+2026-01-25 13:55:49 INFO  org.example.controller.MainController - Enter password:
+2026-01-25 13:55:55 INFO  org.example.controller.MainController - Enter notes (optional):
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - Password saved successfully.
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 13:55:57 WARN  org.example.controller.MainController - Please enter a valid option.
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 13:55:57 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 13:56:12 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-25 13:56:20 WARN  org.example.controller.MainController - Invalid password ID.
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 13:56:20 WARN  org.example.controller.MainController - Please enter a valid option.
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 13:56:20 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 13:56:26 INFO  org.example.controller.MainController - Saved Passwords:
+2026-01-25 13:56:26 INFO  org.example.controller.MainController - ID: 10 | Account: boi | Username: snhea
+2026-01-25 13:56:26 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 13:56:26 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 13:56:26 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 13:56:26 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 13:56:26 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 13:56:26 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 13:56:26 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 13:56:26 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 13:56:26 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 13:56:26 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 13:56:26 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 13:56:26 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 13:56:26 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 13:56:26 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 13:57:04 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-25 13:57:05 INFO  org.example.controller.MainController - Re-enter master password:
+2026-01-25 13:57:09 INFO  org.example.controller.MainController - Account: boi
+2026-01-25 13:57:09 INFO  org.example.controller.MainController - Username: snhea
+2026-01-25 13:57:09 INFO  org.example.controller.MainController - Password: sneha123 
+2026-01-25 13:57:09 INFO  org.example.controller.MainController - Notes: 
+2026-01-25 13:57:09 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 13:57:09 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 13:57:09 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 13:57:09 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 13:57:09 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 13:57:09 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 13:57:09 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 13:57:09 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 13:57:09 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 13:57:09 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 13:57:09 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 13:57:09 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 13:57:09 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 13:57:09 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 13:58:32 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-25 13:58:35 INFO  org.example.controller.MainController - Enter account name:
+2026-01-25 13:58:37 INFO  org.example.controller.MainController - Enter account username:
+2026-01-25 13:58:44 INFO  org.example.controller.MainController - Generating verification code...
+2026-01-25 13:58:44 INFO  org.example.controller.MainController - OTP (demo): 511015
+2026-01-25 13:58:44 INFO  org.example.controller.MainController - Enter verification code:
+2026-01-25 13:58:49 INFO  org.example.controller.MainController - Enter new password: 
+2026-01-25 13:59:01 INFO  org.example.controller.MainController - Enter new notes:
+2026-01-25 13:59:03 WARN  org.example.controller.MainController - New password cannot be same as old password.
+2026-01-25 13:59:03 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 13:59:03 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 13:59:03 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 13:59:03 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 13:59:03 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 13:59:03 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 13:59:03 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 13:59:03 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 13:59:03 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 13:59:03 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 13:59:03 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 13:59:03 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 13:59:03 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 13:59:03 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 13:59:09 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-25 13:59:11 INFO  org.example.controller.MainController - Enter account name:
+2026-01-25 13:59:14 INFO  org.example.controller.MainController - Enter account username:
+2026-01-25 13:59:16 INFO  org.example.controller.MainController - Generating verification code...
+2026-01-25 13:59:16 INFO  org.example.controller.MainController - OTP (demo): 614378
+2026-01-25 13:59:16 INFO  org.example.controller.MainController - Enter verification code:
+2026-01-25 13:59:22 INFO  org.example.controller.MainController - Enter new password: 
+2026-01-25 13:59:27 INFO  org.example.controller.MainController - Enter new notes:
+2026-01-25 13:59:29 INFO  org.example.controller.MainController - Password updated successfully.
+2026-01-25 13:59:29 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 13:59:29 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 13:59:29 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 13:59:29 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 13:59:29 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 13:59:29 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 13:59:29 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 13:59:29 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 13:59:29 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 13:59:29 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 13:59:29 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 13:59:29 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 13:59:29 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 13:59:29 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 13:59:40 INFO  org.example.controller.MainController - Enter category ID to delete:
+2026-01-25 13:59:42 WARN  org.example.controller.MainController - Failed to delete category.
+2026-01-25 13:59:42 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 13:59:42 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 13:59:42 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 13:59:42 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 13:59:42 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 13:59:42 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 13:59:42 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 13:59:42 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 13:59:42 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 13:59:42 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 13:59:42 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 13:59:42 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 13:59:42 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 13:59:42 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:00:01 INFO  org.example.controller.MainController - Enter password ID to delete:
+2026-01-25 14:00:30 WARN  org.example.controller.MainController - Invalid password ID.
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:00:30 WARN  org.example.controller.MainController - Please enter a valid option.
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:00:30 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:00:36 INFO  org.example.controller.MainController - Your Categories:
+2026-01-25 14:00:36 INFO  org.example.controller.MainController - ID: 4 | Name: bank
+2026-01-25 14:00:36 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:00:36 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:00:36 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:00:36 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:00:36 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:00:36 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:00:36 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:00:36 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:00:36 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:00:36 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:00:36 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:00:36 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:00:36 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:00:36 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:00:42 INFO  org.example.controller.MainController - Enter category ID to delete:
+2026-01-25 14:00:43 INFO  org.example.controller.MainController - Category deleted successfully.
+2026-01-25 14:00:43 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:00:43 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:00:43 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:00:43 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:00:43 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:00:43 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:00:43 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:00:43 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:00:43 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:00:43 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:00:43 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:00:43 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:00:43 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:00:43 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:00:55 INFO  org.example.controller.MainController - Enter password length (min 8):
+2026-01-25 14:01:00 INFO  org.example.controller.MainController - Include Uppercase letters? (y/n)
+2026-01-25 14:01:01 INFO  org.example.controller.MainController - Include Lowercase letters? (y/n)
+2026-01-25 14:01:02 INFO  org.example.controller.MainController - Include Numbers? (y/n)
+2026-01-25 14:01:03 INFO  org.example.controller.MainController - Include Special characters? (y/n)
+2026-01-25 14:01:04 INFO  org.example.controller.MainController - Generated Strong Password: OWA8WAEG2R
+2026-01-25 14:01:04 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:01:04 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:01:04 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:01:04 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:01:04 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:01:04 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:01:04 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:01:04 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:01:04 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:01:04 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:01:04 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:01:04 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:01:04 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:01:04 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:21:15 INFO  org.example.controller.MainController - Enter account name:
+2026-01-25 14:21:18 INFO  org.example.controller.MainController - Enter account username:
+2026-01-25 14:21:23 INFO  org.example.controller.MainController - Enter password:
+2026-01-25 14:21:31 INFO  org.example.controller.MainController - Enter notes (optional):
+2026-01-25 14:21:34 INFO  org.example.controller.MainController - Password saved successfully.
+2026-01-25 14:21:34 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:21:34 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:21:34 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:21:34 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:21:34 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:21:34 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:21:34 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:21:34 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:21:34 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:21:34 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:21:34 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:21:34 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:21:34 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:21:34 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:21:53 INFO  org.example.controller.MainController - Enter account name:
+2026-01-25 14:22:02 INFO  org.example.controller.MainController - Enter account username:
+2026-01-25 14:22:08 INFO  org.example.controller.MainController - Enter password:
+2026-01-25 14:22:13 INFO  org.example.controller.MainController - Enter notes (optional):
+2026-01-25 14:22:15 INFO  org.example.controller.MainController - Password saved successfully.
+2026-01-25 14:22:15 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:22:15 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:22:15 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:22:15 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:22:15 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:22:15 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:22:15 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:22:15 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:22:15 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:22:15 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:22:15 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:22:15 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:22:15 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:22:15 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:23:14 INFO  org.example.controller.MainController - Saved Passwords:
+2026-01-25 14:23:14 INFO  org.example.controller.MainController - ID: 12 | Account: utube | Username: she
+2026-01-25 14:23:14 INFO  org.example.controller.MainController - ID: 11 | Account: sneha | Username: sneha
+2026-01-25 14:23:14 INFO  org.example.controller.MainController - ID: 10 | Account: boi | Username: sneha
+2026-01-25 14:23:14 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:23:14 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:23:14 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:23:14 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:23:14 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:23:14 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:23:14 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:23:14 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:23:14 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:23:14 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:23:14 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:23:14 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:23:14 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:23:14 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:23:34 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-25 14:23:36 INFO  org.example.controller.MainController - Enter account name:
+2026-01-25 14:23:46 INFO  org.example.controller.MainController - Enter account username:
+2026-01-25 14:24:03 INFO  org.example.controller.MainController - Generating verification code...
+2026-01-25 14:24:03 INFO  org.example.controller.MainController - OTP (demo): 502438
+2026-01-25 14:24:03 INFO  org.example.controller.MainController - Enter verification code:
+2026-01-25 14:24:08 INFO  org.example.controller.MainController - Enter new password: 
+2026-01-25 14:24:19 INFO  org.example.controller.MainController - Enter new notes:
+2026-01-25 14:24:21 INFO  org.example.controller.MainController - Password updated successfully.
+2026-01-25 14:24:21 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:24:21 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:24:21 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:24:21 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:24:21 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:24:21 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:24:21 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:24:21 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:24:21 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:24:21 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:24:21 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:24:21 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:24:21 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:24:21 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:26:08 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-25 14:26:09 INFO  org.example.controller.MainController - Enter account name:
+2026-01-25 14:26:13 INFO  org.example.controller.MainController - Enter account username:
+2026-01-25 14:26:15 INFO  org.example.controller.MainController - Generating verification code...
+2026-01-25 14:26:15 INFO  org.example.controller.MainController - OTP (demo): 357366
+2026-01-25 14:26:15 INFO  org.example.controller.MainController - Enter verification code:
+2026-01-25 14:26:20 INFO  org.example.controller.MainController - Enter new password: 
+2026-01-25 14:26:27 INFO  org.example.controller.MainController - Enter new notes:
+2026-01-25 14:26:28 WARN  org.example.controller.MainController - New password cannot be same as old password.
+2026-01-25 14:26:28 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:26:28 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:26:28 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:26:28 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:26:28 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:26:28 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:26:28 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:26:28 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:26:28 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:26:28 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:26:28 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:26:28 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:26:28 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:26:28 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:26:45 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-25 14:26:48 INFO  org.example.controller.MainController - Re-enter master password:
+2026-01-25 14:27:14 WARN  org.example.controller.MainController - Master password incorrect. Access denied.
+2026-01-25 14:27:14 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:27:14 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:27:14 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:27:14 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:27:14 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:27:14 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:27:14 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:27:14 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:27:14 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:27:14 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:27:14 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:27:14 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:27:14 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:27:14 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:37:46 INFO  org.example.Main - Starting RevPassword Manager Application
+2026-01-25 14:37:47 INFO  org.example.config.DBConnection - Databse connection established successfully
+2026-01-25 14:37:48 INFO  org.example.controller.MainController - Welcome to RevPassword Manager
+2026-01-25 14:37:48 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 14:37:48 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 14:37:48 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 14:37:48 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 14:37:48 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:37:53 INFO  org.example.controller.MainController - Enter username:
+2026-01-25 14:37:58 INFO  org.example.controller.MainController - Enter master password:
+2026-01-25 14:38:06 WARN  org.example.controller.MainController - Invalid username or password.
+2026-01-25 14:38:06 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 14:38:06 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 14:38:06 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 14:38:06 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 14:38:06 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:38:13 INFO  org.example.controller.MainController - Enter username:
+2026-01-25 14:38:18 INFO  org.example.controller.MainController - Enter full name:
+2026-01-25 14:38:20 INFO  org.example.controller.MainController - Enter email:
+2026-01-25 14:38:27 INFO  org.example.controller.MainController - Enter master password:
+2026-01-25 14:38:33 INFO  org.example.controller.MainController - Registration successful.
+2026-01-25 14:38:41 INFO  org.example.controller.MainController - Security question saved successfully.
+2026-01-25 14:38:41 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 14:38:41 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 14:38:41 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 14:38:41 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 14:38:41 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:38:44 INFO  org.example.controller.MainController - Enter username:
+2026-01-25 14:38:49 INFO  org.example.controller.MainController - Enter master password:
+2026-01-25 14:38:53 INFO  org.example.controller.MainController - Login successful. Welcome, nani
+2026-01-25 14:38:53 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:38:53 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:38:53 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:38:53 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:38:53 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:38:53 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:38:53 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:38:53 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:38:53 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:38:53 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:38:53 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:38:53 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:38:53 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:38:53 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:39:03 INFO  org.example.controller.MainController - Enter category name:
+2026-01-25 14:39:10 INFO  org.example.controller.MainController - Category added successfully.
+2026-01-25 14:39:10 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:39:10 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:39:10 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:39:10 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:39:10 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:39:10 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:39:10 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:39:10 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:39:10 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:39:10 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:39:10 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:39:10 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:39:10 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:39:10 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:39:18 INFO  org.example.controller.MainController - Select Category (0 = No Category):
+2026-01-25 14:39:18 INFO  org.example.controller.MainController - 5 : social
+2026-01-25 14:39:21 INFO  org.example.controller.MainController - Enter account name:
+2026-01-25 14:39:29 WARN  org.example.controller.MainController - Account name is required.
+2026-01-25 14:39:29 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:39:29 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:39:29 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:39:29 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:39:29 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:39:29 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:39:29 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:39:29 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:39:29 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:39:29 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:39:29 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:39:29 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:39:29 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:39:29 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:39:39 INFO  org.example.controller.MainController - Select Category (0 = No Category):
+2026-01-25 14:39:39 INFO  org.example.controller.MainController - 5 : social
+2026-01-25 14:39:40 INFO  org.example.controller.MainController - Enter account name:
+2026-01-25 14:39:44 INFO  org.example.controller.MainController - Enter account username:
+2026-01-25 14:40:03 INFO  org.example.controller.MainController - Enter password:
+2026-01-25 14:40:10 INFO  org.example.controller.MainController - Enter notes (optional):
+2026-01-25 14:40:12 INFO  org.example.controller.MainController - Password saved successfully.
+2026-01-25 14:40:12 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:40:12 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:40:12 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:40:12 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:40:12 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:40:12 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:40:12 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:40:12 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:40:12 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:40:12 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:40:12 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:40:12 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:40:12 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:40:12 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:40:22 INFO  org.example.controller.MainController - Saved Passwords:
+2026-01-25 14:40:22 INFO  org.example.controller.MainController - ID: 13 | Account: insta | Username: nanu
+2026-01-25 14:40:22 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:40:22 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:40:22 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:40:22 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:40:22 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:40:22 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:40:22 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:40:22 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:40:22 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:40:22 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:40:22 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:40:22 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:40:22 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:40:22 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:40:30 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-25 14:40:35 INFO  org.example.controller.MainController - Enter account name:
+2026-01-25 14:40:47 INFO  org.example.controller.MainController - Enter account username:
+2026-01-25 14:40:51 INFO  org.example.controller.MainController - Generating verification code...
+2026-01-25 14:40:51 INFO  org.example.controller.MainController - OTP (demo): 400212
+2026-01-25 14:40:51 INFO  org.example.controller.MainController - Enter verification code:
+2026-01-25 14:40:55 INFO  org.example.controller.MainController - Enter new password: 
+2026-01-25 14:40:59 INFO  org.example.controller.MainController - Enter new notes:
+2026-01-25 14:41:00 WARN  org.example.controller.MainController - Account name does not match existing record.
+2026-01-25 14:41:00 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:41:00 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:41:00 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:41:00 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:41:00 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:41:00 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:41:00 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:41:00 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:41:00 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:41:00 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:41:00 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:41:00 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:41:00 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:41:00 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:41:08 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-25 14:41:14 INFO  org.example.controller.MainController - Enter account name:
+2026-01-25 14:41:18 INFO  org.example.controller.MainController - Enter account username:
+2026-01-25 14:41:24 INFO  org.example.controller.MainController - Generating verification code...
+2026-01-25 14:41:24 INFO  org.example.controller.MainController - OTP (demo): 402126
+2026-01-25 14:41:24 INFO  org.example.controller.MainController - Enter verification code:
+2026-01-25 14:41:30 INFO  org.example.controller.MainController - Enter new password: 
+2026-01-25 14:41:33 INFO  org.example.controller.MainController - Enter new notes:
+2026-01-25 14:41:35 WARN  org.example.controller.MainController - Account username does not match existing record.
+2026-01-25 14:41:35 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:41:35 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:41:35 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:41:35 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:41:35 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:41:35 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:41:35 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:41:35 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:41:35 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:41:35 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:41:35 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:41:35 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:41:35 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:41:35 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:41:47 INFO  org.example.controller.MainController - Your Categories:
+2026-01-25 14:41:47 INFO  org.example.controller.MainController - ID: 5 | Name: social
+2026-01-25 14:41:47 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:41:47 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:41:47 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:41:47 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:41:47 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:41:47 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:41:47 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:41:47 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:41:47 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:41:47 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:41:47 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:41:47 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:41:47 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:41:47 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:41:56 INFO  org.example.controller.MainController - Enter new full name:
+2026-01-25 14:42:01 INFO  org.example.controller.MainController - Enter new email:
+2026-01-25 14:42:03 WARN  org.example.controller.MainController - Email is required.
+2026-01-25 14:42:03 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:42:03 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:42:03 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:42:03 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:42:03 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:42:03 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:42:03 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:42:03 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:42:03 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:42:03 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:42:03 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:42:03 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:42:03 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:42:03 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:52:23 INFO  org.example.Main - Starting RevPassword Manager Application
+2026-01-25 14:52:25 INFO  org.example.config.DBConnection - Databse connection established successfully
+2026-01-25 14:52:25 INFO  org.example.controller.MainController - Welcome to RevPassword Manager
+2026-01-25 14:52:25 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 14:52:25 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 14:52:25 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 14:52:25 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 14:52:25 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:52:35 INFO  org.example.controller.MainController - Enter username:
+2026-01-25 14:52:38 INFO  org.example.controller.MainController - Enter master password:
+2026-01-25 14:52:43 INFO  org.example.controller.MainController - Login successful. Welcome, nani
+2026-01-25 14:52:43 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:52:43 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:52:43 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:52:43 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:52:43 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:52:43 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:52:43 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:52:43 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:52:43 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:52:43 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:52:43 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:52:43 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:52:43 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:52:43 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 14:52:47 INFO  org.example.controller.MainController - Enter new full name:
+2026-01-25 14:52:54 INFO  org.example.controller.MainController - Enter new email:
+2026-01-25 14:53:03 INFO  org.example.controller.MainController - Profile updated successfully.
+2026-01-25 14:53:03 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 14:53:03 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 14:53:03 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 14:53:03 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 14:53:03 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 14:53:03 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 14:53:03 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 14:53:03 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 14:53:03 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 14:53:03 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 14:53:03 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 14:53:03 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 14:53:03 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 14:53:03 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:31:53 INFO  org.example.controller.MainController - Logged out successfully.
+2026-01-25 15:31:53 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 15:31:53 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 15:31:53 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 15:31:53 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 15:31:53 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:31:58 INFO  org.example.controller.MainController - Exiting application.
+2026-01-25 15:31:58 INFO  org.example.Main - Application terminated
+2026-01-25 15:48:49 INFO  org.example.Main - Starting RevPassword Manager Application
+2026-01-25 15:48:50 INFO  org.example.config.DBConnection - Databse connection established successfully
+2026-01-25 15:48:50 INFO  org.example.controller.MainController - Welcome to RevPassword Manager
+2026-01-25 15:48:50 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 15:48:50 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 15:48:50 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 15:48:50 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 15:48:50 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:48:55 INFO  org.example.controller.MainController - Enter username:
+2026-01-25 15:49:10 INFO  org.example.controller.MainController - Enter full name:
+2026-01-25 15:49:12 INFO  org.example.controller.MainController - Enter email:
+2026-01-25 15:49:18 INFO  org.example.controller.MainController - Enter master password:
+2026-01-25 15:49:25 INFO  org.example.controller.MainController - Registration successful.
+2026-01-25 15:49:33 INFO  org.example.controller.MainController - Security question saved successfully.
+2026-01-25 15:49:33 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 15:49:33 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 15:49:33 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 15:49:33 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 15:49:33 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:49:35 INFO  org.example.controller.MainController - Enter username:
+2026-01-25 15:49:39 INFO  org.example.controller.MainController - Enter master password:
+2026-01-25 15:49:43 INFO  org.example.controller.MainController - Login successful. Welcome, anjana
+2026-01-25 15:49:43 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 15:49:43 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 15:49:43 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 15:49:43 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 15:49:43 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 15:49:43 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 15:49:43 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 15:49:43 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 15:49:43 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 15:49:43 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 15:49:43 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 15:49:43 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 15:49:43 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 15:49:43 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:49:45 INFO  org.example.controller.MainController - Enter new full name:
+2026-01-25 15:49:49 INFO  org.example.controller.MainController - Enter new email:
+2026-01-25 15:49:57 INFO  org.example.controller.MainController - Profile updated successfully.
+2026-01-25 15:49:57 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 15:49:57 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 15:49:57 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 15:49:57 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 15:49:57 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 15:49:57 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 15:49:57 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 15:49:57 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 15:49:57 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 15:49:57 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 15:49:57 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 15:49:57 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 15:49:57 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 15:49:57 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:50:02 INFO  org.example.controller.MainController - Enter old password:
+2026-01-25 15:50:06 INFO  org.example.controller.MainController - Generating verification code...
+2026-01-25 15:50:06 INFO  org.example.controller.MainController - OTP: 352580
+2026-01-25 15:50:06 INFO  org.example.controller.MainController - Enter verification code:
+2026-01-25 15:50:13 INFO  org.example.controller.MainController - Enter new password:
+2026-01-25 15:50:19 INFO  org.example.controller.MainController - Password changed successfully.
+2026-01-25 15:50:19 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 15:50:19 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 15:50:19 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 15:50:19 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 15:50:19 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 15:50:19 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 15:50:19 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 15:50:19 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 15:50:19 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 15:50:19 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 15:50:19 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 15:50:19 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 15:50:19 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 15:50:19 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:50:31 INFO  org.example.controller.MainController - No categories found.
+2026-01-25 15:50:31 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 15:50:31 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 15:50:31 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 15:50:31 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 15:50:31 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 15:50:31 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 15:50:31 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 15:50:31 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 15:50:31 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 15:50:31 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 15:50:31 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 15:50:31 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 15:50:31 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 15:50:31 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:50:36 INFO  org.example.controller.MainController - Enter category name:
+2026-01-25 15:50:40 INFO  org.example.controller.MainController - Category added successfully.
+2026-01-25 15:50:40 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 15:50:40 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 15:50:40 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 15:50:40 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 15:50:40 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 15:50:40 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 15:50:40 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 15:50:40 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 15:50:40 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 15:50:40 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 15:50:40 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 15:50:40 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 15:50:40 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 15:50:40 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:50:43 INFO  org.example.controller.MainController - Enter category name:
+2026-01-25 15:50:46 INFO  org.example.controller.MainController - Category added successfully.
+2026-01-25 15:50:46 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 15:50:46 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 15:50:46 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 15:50:46 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 15:50:46 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 15:50:46 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 15:50:46 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 15:50:46 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 15:50:46 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 15:50:46 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 15:50:46 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 15:50:46 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 15:50:46 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 15:50:46 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:50:51 INFO  org.example.controller.MainController - Select Category (0 = No Category):
+2026-01-25 15:50:51 INFO  org.example.controller.MainController - 6 : social
+2026-01-25 15:50:51 INFO  org.example.controller.MainController - 7 : banks
+2026-01-25 15:50:53 INFO  org.example.controller.MainController - Enter account name:
+2026-01-25 15:50:54 INFO  org.example.controller.MainController - Enter account username:
+2026-01-25 15:50:58 INFO  org.example.controller.MainController - Enter password:
+2026-01-25 15:51:01 INFO  org.example.controller.MainController - Enter notes (optional):
+2026-01-25 15:51:06 INFO  org.example.controller.MainController - Password saved successfully.
+2026-01-25 15:51:06 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 15:51:06 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 15:51:06 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 15:51:06 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 15:51:06 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 15:51:06 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 15:51:06 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 15:51:06 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 15:51:06 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 15:51:06 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 15:51:06 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 15:51:06 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 15:51:06 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 15:51:06 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:51:13 INFO  org.example.controller.MainController - Saved Passwords:
+2026-01-25 15:51:13 INFO  org.example.controller.MainController - ID: 14 | Account: insta | Username: anju
+2026-01-25 15:51:13 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 15:51:13 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 15:51:13 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 15:51:13 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 15:51:13 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 15:51:13 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 15:51:13 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 15:51:13 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 15:51:13 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 15:51:13 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 15:51:13 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 15:51:13 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 15:51:13 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 15:51:13 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:51:19 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-25 15:51:24 INFO  org.example.controller.MainController - Re-enter master password:
+2026-01-25 15:51:28 WARN  org.example.controller.MainController - Master password incorrect. Access denied.
+2026-01-25 15:51:28 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 15:51:28 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 15:51:28 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 15:51:28 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 15:51:28 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 15:51:28 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 15:51:28 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 15:51:28 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 15:51:28 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 15:51:28 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 15:51:28 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 15:51:28 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 15:51:28 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 15:51:28 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:51:35 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-25 15:51:38 INFO  org.example.controller.MainController - Re-enter master password:
+2026-01-25 15:51:40 INFO  org.example.controller.MainController - Account: insta
+2026-01-25 15:51:40 INFO  org.example.controller.MainController - Username: anju
+2026-01-25 15:51:40 INFO  org.example.controller.MainController - Password: anju12 
+2026-01-25 15:51:40 INFO  org.example.controller.MainController - Notes: nothing
+2026-01-25 15:51:40 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 15:51:40 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 15:51:40 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 15:51:40 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 15:51:40 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 15:51:40 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 15:51:40 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 15:51:40 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 15:51:40 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 15:51:40 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 15:51:40 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 15:51:40 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 15:51:40 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 15:51:40 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:51:55 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-25 15:51:57 INFO  org.example.controller.MainController - Enter account name:
+2026-01-25 15:52:00 INFO  org.example.controller.MainController - Enter account username:
+2026-01-25 15:52:04 INFO  org.example.controller.MainController - Generating verification code...
+2026-01-25 15:52:04 INFO  org.example.controller.MainController - OTP 817707: 
+2026-01-25 15:52:04 INFO  org.example.controller.MainController - Enter verification code:
+2026-01-25 15:52:05 INFO  org.example.controller.MainController - Verification code is required.
+2026-01-25 15:52:05 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 15:52:05 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 15:52:05 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 15:52:05 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 15:52:05 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 15:52:05 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 15:52:05 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 15:52:05 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 15:52:05 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 15:52:05 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 15:52:05 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 15:52:05 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 15:52:05 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 15:52:05 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:52:11 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-25 15:52:13 INFO  org.example.controller.MainController - Enter account name:
+2026-01-25 15:52:16 INFO  org.example.controller.MainController - Enter account username:
+2026-01-25 15:52:19 INFO  org.example.controller.MainController - Generating verification code...
+2026-01-25 15:52:19 INFO  org.example.controller.MainController - OTP 781632: 
+2026-01-25 15:52:19 INFO  org.example.controller.MainController - Enter verification code:
+2026-01-25 15:52:24 INFO  org.example.controller.MainController - Enter new password: 
+2026-01-25 15:52:30 INFO  org.example.controller.MainController - Enter new notes:
+2026-01-25 15:52:33 INFO  org.example.controller.MainController - Password updated successfully.
+2026-01-25 15:52:33 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 15:52:33 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 15:52:33 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 15:52:33 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 15:52:33 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 15:52:33 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 15:52:33 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 15:52:33 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 15:52:33 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 15:52:33 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 15:52:33 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 15:52:33 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 15:52:33 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 15:52:33 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:52:40 INFO  org.example.controller.MainController - Enter account name keyword:
+2026-01-25 15:52:42 INFO  org.example.controller.MainController - ID: 14 | Account: insta | Username: anju
+2026-01-25 15:52:42 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 15:52:42 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 15:52:42 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 15:52:42 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 15:52:42 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 15:52:42 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 15:52:42 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 15:52:42 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 15:52:42 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 15:52:42 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 15:52:42 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 15:52:42 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 15:52:42 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 15:52:42 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:52:52 INFO  org.example.controller.MainController - Your Categories:
+2026-01-25 15:52:52 INFO  org.example.controller.MainController - ID: 6 | Name: social
+2026-01-25 15:52:52 INFO  org.example.controller.MainController - ID: 7 | Name: banks
+2026-01-25 15:52:52 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 15:52:52 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 15:52:52 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 15:52:52 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 15:52:52 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 15:52:52 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 15:52:52 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 15:52:52 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 15:52:52 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 15:52:52 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 15:52:52 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 15:52:52 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 15:52:52 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 15:52:52 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:53:02 INFO  org.example.controller.MainController - Enter password length (min 8):
+2026-01-25 15:53:05 INFO  org.example.controller.MainController - Include Uppercase letters? (y/n)
+2026-01-25 15:53:07 INFO  org.example.controller.MainController - Include Lowercase letters? (y/n)
+2026-01-25 15:53:08 INFO  org.example.controller.MainController - Include Numbers? (y/n)
+2026-01-25 15:53:09 INFO  org.example.controller.MainController - Include Special characters? (y/n)
+2026-01-25 15:53:10 INFO  org.example.controller.MainController - Generated Strong Password: OGe9fiaD0i
+2026-01-25 15:53:10 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 15:53:10 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 15:53:10 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 15:53:10 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 15:53:10 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 15:53:10 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 15:53:10 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 15:53:10 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 15:53:10 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 15:53:10 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 15:53:10 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 15:53:10 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 15:53:10 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 15:53:10 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:53:19 INFO  org.example.controller.MainController - Logged out successfully.
+2026-01-25 15:53:19 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 15:53:19 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 15:53:19 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 15:53:19 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 15:53:19 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:53:23 INFO  org.example.controller.MainController - Enter username:
+2026-01-25 15:53:25 INFO  org.example.controller.MainController - Security Question:
+2026-01-25 15:53:25 INFO  org.example.controller.MainController - What is your favorite color?
+2026-01-25 15:53:25 INFO  org.example.controller.MainController - Enter your answer:
+2026-01-25 15:53:33 WARN  org.example.controller.MainController - Incorrect security answer.
+2026-01-25 15:53:33 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 15:53:33 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 15:53:33 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 15:53:33 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 15:53:33 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:53:36 INFO  org.example.controller.MainController - Enter username:
+2026-01-25 15:53:38 WARN  org.example.controller.MainController - User not found.
+2026-01-25 15:53:38 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 15:53:38 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 15:53:38 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 15:53:38 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 15:53:38 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:53:41 INFO  org.example.controller.MainController - Enter username:
+2026-01-25 15:53:43 INFO  org.example.controller.MainController - Security Question:
+2026-01-25 15:53:43 INFO  org.example.controller.MainController - What is your favorite color?
+2026-01-25 15:53:43 INFO  org.example.controller.MainController - Enter your answer:
+2026-01-25 15:53:45 INFO  org.example.controller.MainController - Generating verification code...
+2026-01-25 15:53:45 INFO  org.example.controller.MainController - OTP: 715489
+2026-01-25 15:53:45 INFO  org.example.controller.MainController - Enter verification code:
+2026-01-25 15:53:51 INFO  org.example.controller.MainController - Enter new master password:
+2026-01-25 15:53:55 INFO  org.example.controller.MainController - Password reset successful. Please login.
+2026-01-25 15:53:55 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 15:53:55 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 15:53:55 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 15:53:55 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 15:53:55 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 15:54:00 INFO  org.example.controller.MainController - Exiting application. Thank You!
+2026-01-25 15:54:00 INFO  org.example.Main - Application terminated
+2026-01-25 16:09:29 INFO  org.example.Main - Starting RevPassword Manager Application
+2026-01-25 16:09:30 INFO  org.example.config.DBConnection - Databse connection established successfully
+2026-01-25 16:09:30 INFO  org.example.controller.MainController - Welcome to RevPassword Manager
+2026-01-25 16:09:30 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 16:09:30 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 16:09:30 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 16:09:30 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 16:09:30 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 16:09:41 INFO  org.example.controller.MainController - Enter username:
+2026-01-25 16:09:46 INFO  org.example.controller.MainController - Enter master password:
+2026-01-25 16:09:49 INFO  org.example.controller.MainController - Login successful. Welcome, anjana
+2026-01-25 16:09:49 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 16:09:49 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 16:09:49 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 16:09:49 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 16:09:49 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 16:09:49 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 16:09:49 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 16:09:49 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 16:09:49 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 16:09:49 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 16:09:49 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 16:09:49 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 16:09:49 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 16:09:49 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 16:09:55 INFO  org.example.controller.MainController - Enter password ID:
+2026-01-25 16:09:59 INFO  org.example.controller.MainController - Re-enter master password:
+2026-01-25 16:10:06 WARN  org.example.controller.MainController - Master password is required.
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 16:10:06 WARN  org.example.controller.MainController - Please enter a valid option.
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 16:10:06 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 16:10:09 INFO  org.example.controller.MainController - Saved Passwords:
+2026-01-25 16:10:09 INFO  org.example.controller.MainController - ID: 14 | Account: insta | Username: anju | Category: social
+2026-01-25 16:10:09 INFO  org.example.controller.MainController - 1. Update Profile
+2026-01-25 16:10:09 INFO  org.example.controller.MainController - 2. Change Master Password
+2026-01-25 16:10:09 INFO  org.example.controller.MainController - 3. Add Password
+2026-01-25 16:10:09 INFO  org.example.controller.MainController - 4. List Passwords
+2026-01-25 16:10:09 INFO  org.example.controller.MainController - 5. View Password
+2026-01-25 16:10:09 INFO  org.example.controller.MainController - 6. Update Password
+2026-01-25 16:10:09 INFO  org.example.controller.MainController - 7. Delete Password
+2026-01-25 16:10:09 INFO  org.example.controller.MainController - 8. Search Password
+2026-01-25 16:10:09 INFO  org.example.controller.MainController - 9. Add Category
+2026-01-25 16:10:09 INFO  org.example.controller.MainController - 10. List Categories
+2026-01-25 16:10:09 INFO  org.example.controller.MainController - 11. Delete Category
+2026-01-25 16:10:09 INFO  org.example.controller.MainController - 12. Generate Strong Password
+2026-01-25 16:10:09 INFO  org.example.controller.MainController - 13. Logout
+2026-01-25 16:10:09 INFO  org.example.controller.MainController - Enter choice:
+2026-01-25 19:16:38 INFO  org.example.config.DBConnection - Databse connection established successfully
+2026-01-25 19:19:19 INFO  org.example.config.DBConnection - Databse connection established successfully
+2026-01-25 19:20:39 INFO  org.example.config.DBConnection - Databse connection established successfully
+2026-01-25 19:22:15 INFO  org.example.config.DBConnection - Databse connection established successfully
+2026-01-25 19:24:19 INFO  org.example.config.DBConnection - Databse connection established successfully
+2026-01-25 19:27:32 INFO  org.example.config.DBConnection - Databse connection established successfully
+2026-01-25 22:34:23 INFO  org.example.config.DBConnection - Databse connection established successfully
+2026-01-25 22:52:47 INFO  org.example.config.DBConnection - Database connection established successfully
+2026-01-25 22:54:44 INFO  org.example.config.DBConnection - Database connection established successfully
+2026-01-25 22:56:07 INFO  org.example.config.DBConnection - Database connection established successfully
+2026-01-25 22:58:11 INFO  org.example.config.DBConnection - Database connection established successfully
+2026-01-25 23:13:10 INFO  org.example.config.DBConnection - Database connection established successfully
+2026-01-25 23:13:10 ERROR org.example.dao.PasswordEntryDao - Error searching password entries
+java.sql.SQLSyntaxErrorException: Column 'category_name' not found.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:112)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:81)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:55)
+	at com.mysql.cj.jdbc.result.ResultSetImpl.findColumn(ResultSetImpl.java:604)
+	at com.mysql.cj.jdbc.result.ResultSetImpl.getString(ResultSetImpl.java:926)
+	at org.example.dao.PasswordEntryDao.mapRow(PasswordEntryDao.java:208)
+	at org.example.dao.PasswordEntryDao.searchByAccountName(PasswordEntryDao.java:179)
+	at org.example.service.PasswordEntryService.searchPasswords(PasswordEntryService.java:200)
+	at service.PasswordEntryServiceTest.searchPassword_validKeyword_shouldNotCrash(PasswordEntryServiceTest.java:140)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.platform.commons.UtilTest.ReflectionUtils.invokeMethod(ReflectionUtils.java:728)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:218)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:214)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:139)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.UtilTest.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.UtilTest.ArrayList.forEach(ArrayList.java:1596)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:63)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:66)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:237)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:58)
+2026-01-25 23:26:21 INFO  org.example.config.DBConnection - Database connection established successfully
+2026-01-25 23:26:24 WARN  org.example.dao.AccountStatusDao - Account LOCKED
+2026-01-25 23:26:28 WARN  org.example.dao.AccountStatusDao - Account LOCKED
+2026-01-25 23:26:32 WARN  org.example.dao.AccountStatusDao - Account LOCKED
+2026-01-25 23:34:45 INFO  org.example.config.DBConnection - Database connection established successfully
+2026-01-25 23:35:36 INFO  org.example.config.DBConnection - Database connection established successfully
+2026-01-25 23:36:23 INFO  org.example.Main - Starting RevPassword Manager Application
+2026-01-25 23:36:25 INFO  org.example.config.DBConnection - Database connection established successfully
+2026-01-25 23:36:25 INFO  org.example.controller.MainController - Welcome to RevPassword Manager
+2026-01-25 23:36:25 INFO  org.example.controller.MainController - 1. Register
+2026-01-25 23:36:25 INFO  org.example.controller.MainController - 2. Login
+2026-01-25 23:36:25 INFO  org.example.controller.MainController - 3. Forgot Password
+2026-01-25 23:36:25 INFO  org.example.controller.MainController - 4. Exit
+2026-01-25 23:36:25 INFO  org.example.controller.MainController - Enter choice:
